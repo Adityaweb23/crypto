@@ -6,8 +6,8 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark shadow-5-strong sticky-top">
       <div className="container-fluid">
-        <NavLink className="navbar-brand" to="/">
-          CRYPTO MATRIX
+        <NavLink style={{ color: "gold" }} className="navbar-brand" to="/">
+          C ₹ Y P T O
         </NavLink>
         <form
           className="d-flex input-group w-auto"

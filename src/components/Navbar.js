@@ -1,6 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { useGlobalContext } from "../Context";
+
 const Navbar = () => {
   const { query, setQuery } = useGlobalContext();
   return (

@@ -25,8 +25,8 @@ const Home = () => {
           <div className="carousel-container">
             <Carousel />
           </div>
-          <Particles />
         </div>
+        <Particles />
         <div className="col-md-12 col-12">
           <div className="row mt-4">
             <h1 class="center text-center ">LIST OF CRYPTO COINS</h1>

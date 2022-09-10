@@ -146,7 +146,6 @@ const Carousel = () => {
       items={items}
       autoPlayInterval={1000}
       animationDuration={1500}
-      
       responsive={responsive}
       controlsStrategy="alternate"
       autoPlay="true"
